@@ -1,0 +1,6 @@
+{
+  "name": "Adidas Elite",
+  "description": "ADIDAS ELITE – Luxury German Sportswear Mobile App, featuring cutting-edge engineering, interactive fitting, workout analytics, and collections in a Porsche-inspired sleek dark aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

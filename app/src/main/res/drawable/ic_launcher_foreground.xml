@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center the premium German speed-grid stripes inside the safe-zone -->
+    <path
+        android:fillColor="#3B82F6"
+        android:pathData="M 30,76 L 38,76 L 58,34 L 50,34 Z" />
+    <path
+        android:fillColor="#60A5FA"
+        android:pathData="M 45,76 L 53,76 L 73,34 L 65,34 Z" />
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M 60,76 L 68,76 L 88,34 L 80,34 Z" />
+</vector>
